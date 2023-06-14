@@ -1,0 +1,18 @@
+a= 5
+b= 'jovita'
+print(a)
+print(b)
+print(type(a))
+print(type(b))
+c="hello"
+print(c)
+
+c="hello"
+print(c)
+print(type(c))
+
+a =True
+ print(type(a))
+ 
+ a =None
+print(type(a))
