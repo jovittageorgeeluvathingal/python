@@ -1,0 +1,8 @@
+car ={'Honda','Bmw','volvo','benz','bmw'}
+print(car)
+
+fruits = {"tropical":["apple","graps","orange"],
+         "rate":["90","70","100"]}
+print(fruits)
+print(type(fruits))
+print(fruits["tropical"])
