@@ -1,0 +1,18 @@
+car =['honda','bmw','volvo','benz','bmw']
+print(car)
+print(type(car))
+print(car[1])
+print(car[-2])
+print(car[2:])
+print(car[0:2])
+car.append("fari")
+print(car)
+
+car =('honda','bmw','volvo','benz','bmw')
+print(car)
+print(type(car))
+print(car[1])
+
+car ={1,5,10,4,3,119,2,20,5}
+print(car)
+print(type(car))
