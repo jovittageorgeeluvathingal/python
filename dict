@@ -1,0 +1,19 @@
+car ={
+    "brands":["nissan","toyota","honda","tata"],
+    "model":["bmw","i10","swift","kiya"],
+    "price":[200000,750000,80000,900000],
+}
+print(car)
+ab=car["model"]
+print(ab)
+ab=car.get("brands")
+print(ab)
+x=car.values()
+print(x)
+x=car.keys()
+print(x)
+
+if "price" in car:
+    print("yes it is exixted in the list ")
+else:
+    print("it not hve ")
